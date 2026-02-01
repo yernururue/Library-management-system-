@@ -1,3 +1,4 @@
+I lost all commit, tried to fix with gemini but couldn't, there were should be about 16-17 commits
 # Library Management System - SOLID Architecture & Advanced OOP
 
 ## Project Overview
